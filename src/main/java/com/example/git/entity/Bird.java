@@ -5,4 +5,5 @@ import lombok.Data;
 @Data
 public class Bird {
     private String name;
+    private String home;
 }
